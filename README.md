@@ -15,7 +15,7 @@ python3 fckeditor_check.py url
 [-] 404 https://www.xxx.com/fckeditor/editor/filemanager/browser/default/connectors/test.html
 [-] 404 https://www.xxx.com/fckeditor/editor/filemanager/upload/test.html
 [-] Connection Failed https://www.xxx.com/fckeditor/editor/filemanager/connectors/test.html
-[+] 200 1293 https://hr.gtja.com/fckeditor/editor/filemanager/connectors/uploadtest.html
+[+] 200 1293 https://www.xxx.com/fckeditor/editor/filemanager/connectors/uploadtest.html
 ……
 ```
 
